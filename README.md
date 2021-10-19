@@ -12,3 +12,5 @@ https://aburpee.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by bam
+
+### ©️2019 Run Buddy, Inc 
