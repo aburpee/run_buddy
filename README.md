@@ -1,4 +1,4 @@
-# run_buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://aburpee.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by bam
+
+### ©️2019 Run Buddy, Inc 
